@@ -77,6 +77,15 @@ body {
     margin-right: 10px;
 }
 
+.header-nav-list__link {
+    color: #26A69A;
+    text-decoration: none;
+}
+
+.header-nav-list__link:hover {
+    color: #00897B;
+}
+
 .header-user {
     display: flex;
 }
